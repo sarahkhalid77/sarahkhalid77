@@ -1,3 +1,4 @@
+``` java 
 public class SarahKhalid {
     public static void main(String[] args) {
         String pronouns = "She | Her";
@@ -19,8 +20,9 @@ String[] funFacts = {
             "I once participated in a coding hackathon and won first place 🏆",
             "I love exploring new places and trying different cuisines 🌍🍔"
         };
-        
-        
+
+
 
     }
 }
+```
