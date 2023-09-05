@@ -5,7 +5,7 @@ public class SarahKhalid {
         String[] code = {"Java", "Python"};
         String[] askMeAbout = {"automation", "testing", "CI/CD"};
         String[] webAutomation = { "Playwright", "Selenium", "Cypress", "UiPath (RPA)"};
-        String [] mobileAutomation = {"Appium"}
+        String [] mobileAutomation = {"Appium"};
         String[] javaApiAutomation = {"Rest", Soap", "Graphql"};
         String[] apiAutomation = {"Postman", "GraphqlPlayground"};
         String [] manualTesting = {"Regression, "Smoke", "Performance", "Security" };
